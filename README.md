@@ -1,1 +1,1 @@
-# dev10-security-wednesdays
+# Dev10 Security Wednesdays

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>OIDC Demo</title>
+</head>
+<body>
+<h1>OIDC Demo</h1>
+<div id="unauthenticated">
+    <div>
+        With GitHub: <a href="/oauth2/authorization/github">click here</a>
+    </div>
+    <div>
+        With Google: <a href="/oauth2/authorization/google">click here</a>
+    </div>
+</div>
+<div id="authenticated" style="display:none">
+    <p>Logged in as: <span id="user"></span></p>
+    <p><button id="logout">Logout</button></p>
+</div>
+<script src="/js/main.js"></script>
+</body>
+</html>
