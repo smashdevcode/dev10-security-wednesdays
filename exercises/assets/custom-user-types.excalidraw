@@ -1,0 +1,453 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "rectangle",
+      "version": 470,
+      "versionNonce": 2125593443,
+      "isDeleted": false,
+      "id": "MueEfvj2TONZKt080zsOd",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "angle": 0,
+      "x": 839,
+      "y": 488,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 413,
+      "height": 267,
+      "seed": 359015000,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "13lqLbQmYP00Qb-zHw8WK"
+        },
+        {
+          "id": "ef4tCy_pmVMZxnCBTfj28",
+          "type": "arrow"
+        },
+        {
+          "id": "lDsrxsH1JF7UB_zjna7pj",
+          "type": "arrow"
+        },
+        {
+          "id": "fDXBXCC38TH6m0jBJVYdz",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1681770746843,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "13lqLbQmYP00Qb-zHw8WK",
+      "type": "text",
+      "x": 844,
+      "y": 534,
+      "width": 280.1597900390625,
+      "height": 175,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 458142829,
+      "version": 539,
+      "versionNonce": 442551907,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1681770746842,
+      "link": null,
+      "locked": false,
+      "text": "  public class AppUser {\n      int appUserId;\n      AppRole role;\n      String fullName;\n      String email;\n      String gitHubUsername;\n  }",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "baseline": 168,
+      "containerId": "MueEfvj2TONZKt080zsOd",
+      "originalText": "  public class AppUser {\n      int appUserId;\n      AppRole role;\n      String fullName;\n      String email;\n      String gitHubUsername;\n  }",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "rectangle",
+      "version": 340,
+      "versionNonce": 1580256173,
+      "isDeleted": false,
+      "id": "KqiJqKSMm-kF9sAilLIoH",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "angle": 0,
+      "x": 446.5,
+      "y": 228,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 507,
+      "height": 164,
+      "seed": 359015000,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "vAoUcgbZdOaMwpxKNj8Kz"
+        },
+        {
+          "id": "ef4tCy_pmVMZxnCBTfj28",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1681770746842,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 397,
+      "versionNonce": 1926549923,
+      "isDeleted": false,
+      "id": "vAoUcgbZdOaMwpxKNj8Kz",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "angle": 0,
+      "x": 451.5,
+      "y": 260,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 462.2796325683594,
+      "height": 100,
+      "seed": 458142829,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1681770746842,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "  public class CustomOAuth2User \n    extends AppUser implements OAuth2User {\n        OAuth2User oAuth2User;\n  }",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "KqiJqKSMm-kF9sAilLIoH",
+      "originalText": "  public class CustomOAuth2User \n    extends AppUser implements OAuth2User {\n        OAuth2User oAuth2User;\n  }",
+      "lineHeight": 1.25,
+      "baseline": 93
+    },
+    {
+      "id": "ef4tCy_pmVMZxnCBTfj28",
+      "type": "arrow",
+      "x": 918.1121910967328,
+      "y": 482.3835616438357,
+      "width": 225.7149964581355,
+      "height": 87.69419655544823,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1185155949,
+      "version": 1058,
+      "versionNonce": 574789379,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1681770746843,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -225.7149964581355,
+          -87.69419655544823
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "MueEfvj2TONZKt080zsOd",
+        "focus": 0.4193353755838413,
+        "gap": 5.616438356164281
+      },
+      "endBinding": {
+        "elementId": "KqiJqKSMm-kF9sAilLIoH",
+        "focus": 0.4855870037273992,
+        "gap": 2.6893650883874898
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "type": "rectangle",
+      "version": 391,
+      "versionNonce": 612992109,
+      "isDeleted": false,
+      "id": "7rUc4s0RlR9lssYfaD4lx",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1123.5,
+      "y": 231.5,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 507,
+      "height": 164,
+      "seed": 359015000,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "d4BS3C3VDMP9NyGerTv8e"
+        },
+        {
+          "id": "lDsrxsH1JF7UB_zjna7pj",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1681770746842,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 464,
+      "versionNonce": 1712391395,
+      "isDeleted": false,
+      "id": "d4BS3C3VDMP9NyGerTv8e",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1128.5,
+      "y": 263.5,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 428.1796569824219,
+      "height": 100,
+      "seed": 458142829,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1681770746842,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "  public class CustomOidcUser \n    extends AppUser implements OidcUser {\n        OidcUser oidcUser;\n  }",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "7rUc4s0RlR9lssYfaD4lx",
+      "originalText": "  public class CustomOidcUser \n    extends AppUser implements OidcUser {\n        OidcUser oidcUser;\n  }",
+      "lineHeight": 1.25,
+      "baseline": 93
+    },
+    {
+      "id": "lDsrxsH1JF7UB_zjna7pj",
+      "type": "arrow",
+      "x": 1172.1659873966048,
+      "y": 483.9170124481327,
+      "width": 182.93332726834774,
+      "height": 81.95228215767628,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1149218317,
+      "version": 289,
+      "versionNonce": 746503843,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1681770746843,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          182.93332726834774,
+          -81.95228215767628
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "MueEfvj2TONZKt080zsOd",
+        "focus": -0.35767415632669636,
+        "gap": 4.082987551867291
+      },
+      "endBinding": {
+        "elementId": "7rUc4s0RlR9lssYfaD4lx",
+        "focus": -0.4021847886891633,
+        "gap": 6.46473029045643
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "type": "rectangle",
+      "version": 657,
+      "versionNonce": 1494945069,
+      "isDeleted": false,
+      "id": "nEFyNDZUXonkJIo87_qzR",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1392.5,
+      "y": 535.5,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 297,
+      "height": 173,
+      "seed": 359015000,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "tR3OMryKiKf85rrg8nngO"
+        },
+        {
+          "id": "fDXBXCC38TH6m0jBJVYdz",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1681770746842,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 730,
+      "versionNonce": 600401955,
+      "isDeleted": false,
+      "id": "tR3OMryKiKf85rrg8nngO",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1397.5,
+      "y": 572,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 236.559814453125,
+      "height": 100,
+      "seed": 458142829,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1681770746842,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "  public class AppRole {\n      int appRoleId;\n      String name;\n  }",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "nEFyNDZUXonkJIo87_qzR",
+      "originalText": "  public class AppRole {\n      int appRoleId;\n      String name;\n  }",
+      "lineHeight": 1.25,
+      "baseline": 93
+    },
+    {
+      "id": "fDXBXCC38TH6m0jBJVYdz",
+      "type": "arrow",
+      "x": 1388,
+      "y": 629,
+      "width": 135,
+      "height": 2,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 845981325,
+      "version": 166,
+      "versionNonce": 1144172803,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1681770754094,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -135,
+          2
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "nEFyNDZUXonkJIo87_qzR",
+        "focus": -0.05336339721909056,
+        "gap": 4.5
+      },
+      "endBinding": {
+        "elementId": "MueEfvj2TONZKt080zsOd",
+        "focus": 0.09207778470884978,
+        "gap": 1
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
