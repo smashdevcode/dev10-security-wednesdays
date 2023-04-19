@@ -10,16 +10,16 @@ By leveraging an identity provider, it's possible to get out of the business of 
 
 ## Steps
 
-* [1. Create a New Project](#1-create-a-new-project)
-* [2. Securing the Application with GitHub and Spring Security](#2-securing-the-application-with-github-and-spring-security)
-* [3. Add a Welcome Page](#3-add-a-welcome-page)
-* [4. Login with Google](#4-login-with-google)
-* [5. Logout](#5-logout)
-* [6. Adding Support for React](#6-adding-support-for-react)
-* [7. Building the JAR for Deployment](#7-building-the-jar-for-deployment)
-* [8. Supporting Client Side Routing](#8-supporting-client-side-routing)
-* [9. Customizing the OIDC User](#9-customizing-the-oidc-user)
-* [10. Associating Data with Users](#10-associating-data-with-users)
+1. [Create a New Project](#1-create-a-new-project)
+2. [Securing the Application with GitHub and Spring Security](#2-securing-the-application-with-github-and-spring-security)
+3. [Add a Welcome Page](#3-add-a-welcome-page)
+4. [Login with Google](#4-login-with-google)
+5. [Logout](#5-logout)
+6. [Adding Support for React](#6-adding-support-for-react)
+7. [Building the JAR for Deployment](#7-building-the-jar-for-deployment)
+8. [Supporting Client Side Routing](#8-supporting-client-side-routing)
+9. [Customizing the OIDC User](#9-customizing-the-oidc-user)
+10. [Associating Data with Users](#10-associating-data-with-users)
 
 ### 1. Create a New Project
 
